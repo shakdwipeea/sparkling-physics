@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="271px" height="312px" viewBox="0 0 271 312" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chemistry" transform="translate(-960.000000, -292.000000)" stroke="#979797">
+            <g id="Group-5" transform="translate(935.000000, 295.000000)">
+                <g id="center-ball" transform="translate(147.000000, 137.000000)" fill="#D8D8D8">
+                    <circle id="big" stroke-width="3" fill-opacity="0.53" cx="16" cy="16" r="16"></circle>
+                    <circle id="small-inner" cx="19.5" cy="9.5" r="3.5"></circle>
+                </g>
+                <ellipse id="Oval-5" stroke-width="5" cx="160.5" cy="153" rx="57.5" ry="153"></ellipse>
+                <ellipse id="Oval-5-Copy" stroke-width="5" transform="translate(160.500000, 153.000000) rotate(57.000000) translate(-160.500000, -153.000000) " cx="160.5" cy="153" rx="57.5" ry="153"></ellipse>
+                <ellipse id="Oval-5-Copy-2" stroke-width="5" transform="translate(160.500000, 153.000000) rotate(-57.000000) translate(-160.500000, -153.000000) " cx="160.5" cy="153" rx="57.5" ry="153"></ellipse>
+                <g id="ball-down" transform="translate(122.000000, 267.000000)">
+                    <circle id="big" stroke-width="2" fill="#727272" cx="10" cy="10" r="10"></circle>
+                    <circle id="small-inner" fill="#D8D8D8" cx="6.5" cy="7.5" r="2.5"></circle>
+                </g>
+                <g id="ball-left" transform="translate(59.000000, 146.000000)">
+                    <circle id="big" stroke-width="2" fill="#727272" cx="10" cy="10" r="10"></circle>
+                    <circle id="small-inner" fill="#D8D8D8" cx="6.5" cy="7.5" r="2.5"></circle>
+                </g>
+                <g id="ball-right" transform="translate(270.000000, 177.000000)">
+                    <circle id="big" stroke-width="2" fill="#727272" cx="10" cy="10" r="10"></circle>
+                    <circle id="small-inner" fill="#D8D8D8" cx="6.5" cy="7.5" r="2.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="442px" height="440px" viewBox="0 0 442 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Maths" transform="translate(-886.000000, -244.000000)">
+            <g id="line" transform="translate(886.000000, 244.000000)">
+                <path d="M226.5,1.5 L226.5,439.396106" id="Line-4" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M0.5,238.5 L441.141578,238.5" id="Line-5" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M36.5,275.5 L388.5,85.5" id="Line-6" stroke="#979797" stroke-linecap="square"></path>
+                <polyline id="Path-24" stroke="#979797" points="212.339844 15.2265625 226.71875 0.45703125 238.246094 15.2265625"></polyline>
+                <polyline id="Path-24-Copy" stroke="#979797" transform="translate(434.292969, 237.841797) rotate(90.000000) translate(-434.292969, -237.841797) " points="421.339844 245.226562 435.71875 230.457031 447.246094 245.226562"></polyline>
+                <path d="M376.5,276.5 L174.5,87.5" id="Line-7" stroke="#979797" stroke-linecap="square"></path>
+                <polygon id="Path-25" fill-opacity="0.6" fill="#D8D8D8" points="226.769531 238.652344 226.769531 172.128906 251.962891 159.382812 335.839844 238.652344"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

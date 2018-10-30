@@ -1,0 +1,42 @@
+
+#form-email {
+    background:url("email.svg") 12px center no-repeat;
+    background-color:rgb(40, 40, 40);
+    background-size:24px;
+    border:solid 1px transparent;
+    font-size: 15px;
+    padding: 0;
+    padding-inline-end: 48px;
+    padding-inline-start: 46px;
+    width: 100%;
+    border-radius:36px;
+} 
+#prism {
+    position:bottom;
+}
+  button {
+    margin-left:-6.5%;
+    border:25px;
+    background-color:rgb(40, 40, 40);
+    padding-top:1px;
+    padding-right:1px;
+    position:relative;
+    bottom:1px;
+    top:3px; 
+}
+
+
+
+#arrow {
+    float:right bottom;
+}
+
+.dot::after {
+    content:"";
+    border-radius:50%;
+    position:absolute;
+    right:2px;
+    top:5px;
+    border:dashed;
+    background:white;
+}
